@@ -21,22 +21,6 @@ All rows share these columns:
 | `category` | Category label used on x402.org. |
 | `slug` | Convenience slug derived from the upstream metadata or URL. |
 
-## Regenerating the data
-The gatherer script pulls partner metadata directly from the open-source [`coinbase/x402`](https://github.com/coinbase/x402) repository and enriches it with light scraping:
-
-```bash
-# from x402archive/
-node scripts/build-db.mjs
-sqlite3 data/projects.sqlite < data/projects.sql
-```
-
-The script will emit warnings when it cannot identify a Twitter handle. Those rows keep `project_twitter` as `unknown` so they are easy to filter and update manually.
-
-## Next steps
-1. **Populate earliest mentions.** The `earliest_x402_mention` field is currently a stub. You can replace it with timelines from commit history, blog posts, or social updates once you decide on the canonical source.
-2. **Review missing socials.** Double-check the `unknown` handles and fill in values gathered from documentation or public profiles.
-3. **Persist new facts.** After updating the CSV (or JSON), re-run the `projects.sql` generation or insert statements to keep the SQLite database in sync.
-
 ## Request a project submission
 Want to see a new project listed? Here’s the lightweight workflow:
 
