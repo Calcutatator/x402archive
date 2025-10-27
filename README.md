@@ -1,6 +1,7 @@
 # x402 Ecosystem Snapshot
 
-This workspace pulls the public partner directory from [x402.org](https://www.x402.org/ecosystem) and normalises it into a lightweight dataset you can query locally.
+This workspace pulls the public partner directory from [x402.org](https://www.x402.org/ecosystem) and normalises it into a lightweight dataset you can query locally.  
+Canonical repository: [Calcutatator/x402archive](https://github.com/Calcutatator/x402archive).
 
 ## Generated artifacts
 - `data/projects.json` – structured array of partner records.
@@ -39,13 +40,13 @@ The script will emit warnings when it cannot identify a Twitter handle. Those ro
 ## Request a project submission
 Want to see a new project listed? Here’s the lightweight workflow:
 
-1. **Fork & edit (preferred).** Duplicate this repository, add a new directory under `scripts/overrides` or edit `scripts/build-db.mjs` to include your project details (name, category, primary link, optional Twitter override), then open a pull request.
-2. **Open an issue.** If you’re not comfortable with Git, file an issue containing:
+1. **Fork & edit (preferred).** Fork [Calcutatator/x402archive](https://github.com/Calcutatator/x402archive), add a new directory under `scripts/overrides` or edit `scripts/build-db.mjs` to include your project details (name, category, primary link, optional Twitter override), then open a pull request against `main`.
+2. **Open an issue.** If you’re not comfortable with Git, file an issue at [github.com/Calcutatator/x402archive/issues/new](https://github.com/Calcutatator/x402archive/issues/new) containing:
    - Project name & short description  
    - Primary URL (docs or landing page)  
    - Category (match an existing one if you can)  
    - Optional metadata: facilitator networks, earliest mention, Twitter/X handle
-3. **Signal updates.** Already listed but something changed? Issues or PRs work the same way—just flag the row to update.
+3. **Signal updates.** Already listed but something changed? Issues or PRs on the same repository work the same way—just flag the row to update.
 
 Submissions stay in the `data/` artifacts only after being vetted against the upstream x402 ecosystem list so the dataset remains aligned.
 

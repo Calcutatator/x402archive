@@ -14,7 +14,8 @@ const GITHUB_TREE_URL =
   "https://api.github.com/repos/coinbase/x402/git/trees/main?recursive=1";
 const RAW_BASE_URL =
   "https://raw.githubusercontent.com/coinbase/x402/main/";
-const USER_AGENT = "x402archive-script/0.1 (+https://x402.org)";
+const USER_AGENT =
+  "x402archive-script/0.1 (+https://github.com/Calcutatator/x402archive)";
 
 const WEBSITE_HEADERS = {
   "User-Agent":
