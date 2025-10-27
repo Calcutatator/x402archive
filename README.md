@@ -1,4 +1,4 @@
-# x402 Ecosystem Snapshot
+# x402 Ecosystem Archive
 
 This workspace pulls the public partner directory from [x402.org](https://www.x402.org/ecosystem) and normalises it into a lightweight dataset you can query locally.  
 Canonical repository: [Calcutatator/x402archive](https://github.com/Calcutatator/x402archive).
