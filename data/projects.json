@@ -1,0 +1,254 @@
+[
+  {
+    "project_name": "1Shot API",
+    "project_twitter": "https://x.com/1shotapi",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://docs.1shotapi.com/automation/n8n.html#monetize-n8n-workflows-with-x402",
+    "earliest_x402_mention": "unknown",
+    "category": "Infrastructure & Tooling",
+    "slug": "1shot-api"
+  },
+  {
+    "project_name": "AEON",
+    "project_twitter": "https://x.com/AEON_Community",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://aeon.xyz/AIPayment",
+    "earliest_x402_mention": "unknown",
+    "category": "Services/Endpoints",
+    "slug": "aeon"
+  },
+  {
+    "project_name": "AurraCloud",
+    "project_twitter": "https://x.com/AurraCloud",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://aurracloud.com/x402",
+    "earliest_x402_mention": "unknown",
+    "category": "Services/Endpoints",
+    "slug": "aurracloud"
+  },
+  {
+    "project_name": "Axios & Fetch Clients",
+    "project_twitter": "https://x.com/axios",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://github.com/coinbase/x402/tree/main/examples/typescript/clients",
+    "earliest_x402_mention": "unknown",
+    "category": "Client-Side Integrations",
+    "slug": "axios-fetch-clients"
+  },
+  {
+    "project_name": "Bonsai",
+    "project_twitter": "https://x.com/onbonsai",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://onbonsai.gitbook.io/docs/smart-media/content-generation-api",
+    "earliest_x402_mention": "unknown",
+    "category": "Services/Endpoints",
+    "slug": "bonsai"
+  },
+  {
+    "project_name": "CDP Facilitator",
+    "project_twitter": "https://x.com/coinbasedev",
+    "project_x402_mainnet": "Yes (base, base-sepolia, solana, solana-devnet)",
+    "project_link": "https://docs.cdp.coinbase.com/x402/docs/quickstart-sellers",
+    "earliest_x402_mention": "unknown",
+    "category": "Facilitators",
+    "slug": "cdp"
+  },
+  {
+    "project_name": "Daydreams Router",
+    "project_twitter": "https://x.com/daydreamsagents",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://router.daydreams.systems",
+    "earliest_x402_mention": "unknown",
+    "category": "Infrastructure & Tooling",
+    "slug": "daydreams"
+  },
+  {
+    "project_name": "Firecrawl",
+    "project_twitter": "https://x.com/morganlinton",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://firecrawl.dev",
+    "earliest_x402_mention": "unknown",
+    "category": "Services/Endpoints",
+    "slug": "firecrawl"
+  },
+  {
+    "project_name": "Fluora",
+    "project_twitter": "https://x.com/fluora_ai",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://www.fluora.ai/",
+    "earliest_x402_mention": "unknown",
+    "category": "Infrastructure & Tooling",
+    "slug": "fluora"
+  },
+  {
+    "project_name": "Gloria AI",
+    "project_twitter": "https://x.com/itsgloria_ai",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://itsgloria.ai",
+    "earliest_x402_mention": "unknown",
+    "category": "Services/Endpoints",
+    "slug": "gloria"
+  },
+  {
+    "project_name": "Heurist Deep Research",
+    "project_twitter": "https://x.com/heurist_ai",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://research.heurist.ai",
+    "earliest_x402_mention": "unknown",
+    "category": "Services/Endpoints",
+    "slug": "heurist-ai"
+  },
+  {
+    "project_name": "Heurist Mesh",
+    "project_twitter": "https://x.com/heurist_ai",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://mesh.heurist.ai/",
+    "earliest_x402_mention": "unknown",
+    "category": "Infrastructure & Tooling",
+    "slug": "heurist-mcp-portal"
+  },
+  {
+    "project_name": "Latinum Agentic Commerce",
+    "project_twitter": "https://x.com/LatinumAI",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://latinum.ai",
+    "earliest_x402_mention": "unknown",
+    "category": "Infrastructure & Tooling",
+    "slug": "latinum"
+  },
+  {
+    "project_name": "MCPay",
+    "project_twitter": "https://x.com/mcpaytech",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://mcpay.tech",
+    "earliest_x402_mention": "unknown",
+    "category": "Infrastructure & Tooling",
+    "slug": "mcpay"
+  },
+  {
+    "project_name": "Meridian",
+    "project_twitter": "https://x.com/mrdn_finance",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://mrdn.finance",
+    "earliest_x402_mention": "unknown",
+    "category": "Infrastructure & Tooling",
+    "slug": "meridian"
+  },
+  {
+    "project_name": "Mogami examples",
+    "project_twitter": "https://x.com/mogami_tech",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://mogami.tech/#examples",
+    "earliest_x402_mention": "unknown",
+    "category": "Learning & Community Resources",
+    "slug": "mogami-examples"
+  },
+  {
+    "project_name": "Mogami facilitator",
+    "project_twitter": "https://x.com/mogami_tech",
+    "project_x402_mainnet": "Yes (base, base-sepolia)",
+    "project_link": "https://facilitator.mogami.tech",
+    "earliest_x402_mention": "unknown",
+    "category": "Facilitators",
+    "slug": "mogami-facilitator"
+  },
+  {
+    "project_name": "Mogami java client SDK",
+    "project_twitter": "https://x.com/mogami_tech",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://mogami.tech/#clientSDK",
+    "earliest_x402_mention": "unknown",
+    "category": "Client-Side Integrations",
+    "slug": "mogami-java-client-sdk"
+  },
+  {
+    "project_name": "Mogami java server SDH (Spring boot)",
+    "project_twitter": "https://x.com/mogami_tech",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://mogami.tech/#serverSDK",
+    "earliest_x402_mention": "unknown",
+    "category": "Infrastructure & Tooling",
+    "slug": "mogami-java-server-sdk"
+  },
+  {
+    "project_name": "Neynar",
+    "project_twitter": "https://x.com/neynarxyz",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://neynar.com/blog/agents-frames-and-the-future-of-farcaster-neynar-s-vision-for-x402",
+    "earliest_x402_mention": "unknown",
+    "category": "Services/Endpoints",
+    "slug": "neynar"
+  },
+  {
+    "project_name": "PayAI Facilitator",
+    "project_twitter": "https://x.com/PayAINetwork",
+    "project_x402_mainnet": "Yes (solana, solana-devnet, base, base-sepolia, polygon, polygon-amoy, avalanche, avalanche-fuji, sei, sei-testnet, peaq, iotex)",
+    "project_link": "https://facilitator.payai.network",
+    "earliest_x402_mention": "unknown",
+    "category": "Facilitators",
+    "slug": "payai"
+  },
+  {
+    "project_name": "Pinata",
+    "project_twitter": "https://x.com/pinatacloud",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://402.pinata.cloud/",
+    "earliest_x402_mention": "unknown",
+    "category": "Services/Endpoints",
+    "slug": "pinata"
+  },
+  {
+    "project_name": "Questflow",
+    "project_twitter": "https://x.com/questflow",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://questflow.ai?utm_source=x402_website&utm_medium=ecosystem",
+    "earliest_x402_mention": "unknown",
+    "category": "Services/Endpoints",
+    "slug": "questflow"
+  },
+  {
+    "project_name": "Snack Money API",
+    "project_twitter": "https://x.com/snackmoneyapp",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://api.snack.money/docs",
+    "earliest_x402_mention": "unknown",
+    "category": "Services/Endpoints",
+    "slug": "snackoney"
+  },
+  {
+    "project_name": "thirdweb",
+    "project_twitter": "https://x.com/thirdweb",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://portal.thirdweb.com/payments/x402/client",
+    "earliest_x402_mention": "unknown",
+    "category": "Client-Side Integrations",
+    "slug": "thirdweb-client"
+  },
+  {
+    "project_name": "thirdweb",
+    "project_twitter": "https://x.com/thirdweb",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://portal.thirdweb.com/payments/x402/facilitator",
+    "earliest_x402_mention": "unknown",
+    "category": "Infrastructure & Tooling",
+    "slug": "thirdweb-infra"
+  },
+  {
+    "project_name": "Tweazy",
+    "project_twitter": "https://x.com/aaronjmars",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://github.com/aaronjmars/tweazy",
+    "earliest_x402_mention": "unknown",
+    "category": "Client-Side Integrations",
+    "slug": "tweazy"
+  },
+  {
+    "project_name": "x402scan",
+    "project_twitter": "https://x.com/bipx402",
+    "project_x402_mainnet": "Unknown",
+    "project_link": "https://x402scan.com",
+    "earliest_x402_mention": "unknown",
+    "category": "Infrastructure & Tooling",
+    "slug": "x402scan"
+  }
+]

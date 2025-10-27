@@ -1,0 +1,29 @@
+project_name,project_twitter,project_x402_mainnet,project_link,earliest_x402_mention,category,slug
+1Shot API,https://x.com/1shotapi,Unknown,https://docs.1shotapi.com/automation/n8n.html#monetize-n8n-workflows-with-x402,unknown,Infrastructure & Tooling,1shot-api
+AEON,https://x.com/AEON_Community,Unknown,https://aeon.xyz/AIPayment,unknown,Services/Endpoints,aeon
+AurraCloud,https://x.com/AurraCloud,Unknown,https://aurracloud.com/x402,unknown,Services/Endpoints,aurracloud
+Axios & Fetch Clients,https://x.com/axios,Unknown,https://github.com/coinbase/x402/tree/main/examples/typescript/clients,unknown,Client-Side Integrations,axios-fetch-clients
+Bonsai,https://x.com/onbonsai,Unknown,https://onbonsai.gitbook.io/docs/smart-media/content-generation-api,unknown,Services/Endpoints,bonsai
+CDP Facilitator,https://x.com/coinbasedev,"Yes (base, base-sepolia, solana, solana-devnet)",https://docs.cdp.coinbase.com/x402/docs/quickstart-sellers,unknown,Facilitators,cdp
+Daydreams Router,https://x.com/daydreamsagents,Unknown,https://router.daydreams.systems,unknown,Infrastructure & Tooling,daydreams
+Firecrawl,https://x.com/morganlinton,Unknown,https://firecrawl.dev,unknown,Services/Endpoints,firecrawl
+Fluora,https://x.com/fluora_ai,Unknown,https://www.fluora.ai/,unknown,Infrastructure & Tooling,fluora
+Gloria AI,https://x.com/itsgloria_ai,Unknown,https://itsgloria.ai,unknown,Services/Endpoints,gloria
+Heurist Deep Research,https://x.com/heurist_ai,Unknown,https://research.heurist.ai,unknown,Services/Endpoints,heurist-ai
+Heurist Mesh,https://x.com/heurist_ai,Unknown,https://mesh.heurist.ai/,unknown,Infrastructure & Tooling,heurist-mcp-portal
+Latinum Agentic Commerce,https://x.com/LatinumAI,Unknown,https://latinum.ai,unknown,Infrastructure & Tooling,latinum
+MCPay,https://x.com/mcpaytech,Unknown,https://mcpay.tech,unknown,Infrastructure & Tooling,mcpay
+Meridian,https://x.com/mrdn_finance,Unknown,https://mrdn.finance,unknown,Infrastructure & Tooling,meridian
+Mogami examples,https://x.com/mogami_tech,Unknown,https://mogami.tech/#examples,unknown,Learning & Community Resources,mogami-examples
+Mogami facilitator,https://x.com/mogami_tech,"Yes (base, base-sepolia)",https://facilitator.mogami.tech,unknown,Facilitators,mogami-facilitator
+Mogami java client SDK,https://x.com/mogami_tech,Unknown,https://mogami.tech/#clientSDK,unknown,Client-Side Integrations,mogami-java-client-sdk
+Mogami java server SDH (Spring boot),https://x.com/mogami_tech,Unknown,https://mogami.tech/#serverSDK,unknown,Infrastructure & Tooling,mogami-java-server-sdk
+Neynar,https://x.com/neynarxyz,Unknown,https://neynar.com/blog/agents-frames-and-the-future-of-farcaster-neynar-s-vision-for-x402,unknown,Services/Endpoints,neynar
+PayAI Facilitator,https://x.com/PayAINetwork,"Yes (solana, solana-devnet, base, base-sepolia, polygon, polygon-amoy, avalanche, avalanche-fuji, sei, sei-testnet, peaq, iotex)",https://facilitator.payai.network,unknown,Facilitators,payai
+Pinata,https://x.com/pinatacloud,Unknown,https://402.pinata.cloud/,unknown,Services/Endpoints,pinata
+Questflow,https://x.com/questflow,Unknown,https://questflow.ai?utm_source=x402_website&utm_medium=ecosystem,unknown,Services/Endpoints,questflow
+Snack Money API,https://x.com/snackmoneyapp,Unknown,https://api.snack.money/docs,unknown,Services/Endpoints,snackoney
+thirdweb,https://x.com/thirdweb,Unknown,https://portal.thirdweb.com/payments/x402/client,unknown,Client-Side Integrations,thirdweb-client
+thirdweb,https://x.com/thirdweb,Unknown,https://portal.thirdweb.com/payments/x402/facilitator,unknown,Infrastructure & Tooling,thirdweb-infra
+Tweazy,https://x.com/aaronjmars,Unknown,https://github.com/aaronjmars/tweazy,unknown,Client-Side Integrations,tweazy
+x402scan,https://x.com/bipx402,Unknown,https://x402scan.com,unknown,Infrastructure & Tooling,x402scan
